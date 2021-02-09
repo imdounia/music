@@ -1,0 +1,41 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Blackpink",
+      "description": "Blackpink is a South Korean girl group formed by YG Entertainment, consisting of members Jisoo, Jennie, Rosé, and Lisa.",
+      "years_active": 2016
+    },
+    {
+      "name": "Bts",
+      "description": "Bts is a South Korean boy group.",
+      "years_active": 2013,
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "artist_id": 1,
+      "name": "Square up",
+      "release_date": "15/06/2018",
+      "genre_id": 1
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "album_id": 1,
+      "name": "Forever young",
+      "playtime": "3:55",
+      "equipeid": 1
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Kpop",
+      "description": "K-pop is a genre of popular music originating in South Korea. It is influenced by styles and genres from around the world, such as experimental, rock, jazz, gospel, hip hop, R&B, reggae, electronic dance, folk, country, and classical on top of its traditional Korean music roots."
+    }
+  ]
+}
