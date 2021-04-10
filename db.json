@@ -26,9 +26,7 @@
     {
       "id": 1,
       "album_id": 1,
-      "name": "Forever Young",
-      "playtime": "3:55",
-      "equipeid": 1
+      "name": "Forever Young"
     }
   ],
   "genres": [
