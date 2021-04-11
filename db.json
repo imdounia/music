@@ -27,7 +27,8 @@
       "id": 1,
       "artist_id": 1,
       "album_id": 1,
-      "name": "Forever Young"
+      "name": "Forever Young",
+      "genre": "K-pop"
     }
   ]
 }
