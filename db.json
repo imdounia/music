@@ -13,20 +13,10 @@
       "id": 2
     }
   ],
-  "albums": [
-    {
-      "id": 1,
-      "artist_id": 1,
-      "name": "Square up",
-      "release_date": "15/06/2018",
-      "genre_id": 1
-    }
-  ],
   "songs": [
     {
       "id": 1,
-      "artist_id": 1,
-      "album_id": 1,
+      "artist": "Blackpink",
       "name": "Forever Young",
       "genre": "K-pop"
     }
