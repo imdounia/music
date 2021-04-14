@@ -17,7 +17,7 @@
     {
       "id": 1,
       "artist": "Blackpink",
-      "videourl": '<iframe width="560" height="315" src="https://www.youtube.com/embed/ioNng23DkIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+      "videourl": "<iframe width='560' height='315' src='https://www.youtube.com/embed/ioNng23DkIM' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>',
       "name": "How You Like That",
       "genre": "K-pop"
     }
