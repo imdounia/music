@@ -11,6 +11,7 @@
       "description": "Day6 is a South Korean pop rock band under the label JYP Entertainment. The group debuted on September 7, 2015, with EP The Day, which peaked at No.2 on Billboard's World Album Chart a week following its release. The band consists of five members: Sungjin, Jae, Young K, Wonpil, and Dowoon.",
       "yearsactive": 2015,
       "id": 2
+<<<<<<< HEAD
     },
     {
       "name": "GOT7",
@@ -29,10 +30,13 @@
       "description": "iKon, stylized as iKON, is a South Korean boy band formed in 2015 by YG Entertainment, consisting of six members: Bobby, Jinhwan, Ju-ne, Yunhyeong, Donghyuk and Chanwoo.",
       "yearsactive": 2015,
       "id": 5
+=======
+>>>>>>> 4cb54cd18176c22ee31f1b4e8fbcaa2c4c80513f
     }
   ],
   "songs": [
     {
+<<<<<<< HEAD
       "videourl": "https://www.youtube.com/watch?v=0AUFyFEt35g",
       "name": "BOSS",
       "artist": "NCT",
@@ -108,6 +112,13 @@
       "artist": "ZICO",
       "genre": "K-HIP HOP",
       "id": 12
+=======
+      "id": 1,
+      "artist": "Blackpink",
+      "videourl": "https://www.youtube.com/watch?v=ioNng23DkIM",
+      "name": "How You Like That",
+      "genre": "K-pop"
+>>>>>>> 4cb54cd18176c22ee31f1b4e8fbcaa2c4c80513f
     }
   ]
 }
